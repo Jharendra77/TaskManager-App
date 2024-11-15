@@ -1,3 +1,4 @@
+![Screenshot (257)](https://github.com/user-attachments/assets/d0e2b50e-5bca-4fa2-97a6-3d8d1b1f01e3)
 # Fullstack Task Manager (MERN)
 
 
